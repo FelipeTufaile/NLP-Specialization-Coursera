@@ -6,3 +6,4 @@
 
 ## Notebok Description
   - **Numpy_Operations.ipynb**: Parts-of-Speech Tagging - Working with tags and Numpy. Creates a matrix using some tag information and then modify it using different approaches;
+  - **Part_of_Speech_Tagging_POS.ipynb**: Building a Parts-of-Speech Tagging model. Goes through the process of assigning a part-of-speech tag (Noun, Verb, Adjective...) to each word in an input text. Tagging can be difficult because some words can represent more than one part of speech at different times. 

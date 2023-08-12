@@ -10,4 +10,6 @@
   - 3. **Candidates_from_Edits.ipynb**: Listing candidates from string edits by applying edit operations;
   - 4. **Autocorrect_MinEditDistance_Assignment.ipynb**: Implement an auto-correct system using minimum edit distance;
   - 5. **Strings_and_Tags.ipynb**: Working with text files, creating a vocabulary and handling unknown words;
-  - 6. **Part_of_Speech_Tagging_POS.ipynb**: Building a Parts-of-Speech Tagging model. Goes through the process of assigning a part-of-speech tag (e.g. Noun, Verb, Adjective) to each word in an input text. Tagging can be difficult because some words can represent more than one part of speech at different times. 
+  - 6. **Part_of_Speech_Tagging_POS.ipynb**: Building a Parts-of-Speech Tagging model. Goes through the process of assigning a part-of-speech tag (e.g. Noun, Verb, Adjective) to each word in an input text. Tagging can be difficult because some words can represent more than one part of speech at different times;
+  - 7. **N-grams_Corpus_preprocessing.ipynb**:
+  - 8. 

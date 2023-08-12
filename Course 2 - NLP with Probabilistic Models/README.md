@@ -20,6 +20,7 @@
   - 5. **Strings_and_Tags.ipynb**: Working with text files, creating a vocabulary and handling unknown words;
   - 6. **Part_of_Speech_Tagging_POS.ipynb**: Building a Parts-of-Speech Tagging model. Goes through the process of assigning a part-of-speech tag (e.g. Noun, Verb, Adjective) to each word in an input text. Tagging can be difficult because some words can represent more than one part of speech at different times;
   - 7. **N-grams_Corpus_preprocessing.ipynb**: Applying common preprocessing steps for the language models and creating N-grams from sentences;
-  - 8. **Building_the_language_model.ipynb**: Calculating n-gram probability by counting frequencies of n-grams and n-gram prefixes in a training dataset.
+  - 8. **Building_the_language_model.ipynb**: Calculating n-gram probability by counting frequencies of n-grams and n-gram prefixes in a training dataset;
+  - 9. **Out_of_vocabulary_words.ipynb**: Dealing with out of vocabulary words (oov) and smoothing methods.
 
 

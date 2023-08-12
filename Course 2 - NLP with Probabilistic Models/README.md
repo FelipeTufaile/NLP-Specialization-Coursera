@@ -3,7 +3,14 @@
 ## Course Description
   - Create an **Auto correct models** that calculates probabilities to find the most likely correction of a typo, through considering different possible edits to correct the typo and calculating the minimum edit distance to correct a certain word.
   - **Part of speech tagging (POS)** using **hidden Markov model** with the **Viterbi** algorithm. The Viterbi algorithm makes use of dynamic programming, which is an optimization technique that breaks down a big problem into smaller problems;
-  -  Implementing N-gram models that assigns the probability to a sequence of words in a way that more likely sequences receive higher probabilities. This probability calculation can then be used to develop an **auto-complete system**; 
+  - **Part 03**:
+    - N-Grams and probabilities;
+    - Approximate sentence probability from N-Grams;
+    - Build a language model from a corpus;
+    - Fix missing information;
+    - Out of vocabulary words with <UNK>;
+    - Missing N-Gram in corpus with smoothing, backoff and interpolation;
+    - Evaluate language model with perplexity.
 
 ## Notebok Description
   - 1. **Building_Vocabulary_Model.ipynb**: Vocabulary Creation with a small corpus;

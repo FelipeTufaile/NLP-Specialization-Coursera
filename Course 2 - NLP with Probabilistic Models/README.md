@@ -1,8 +1,9 @@
 # NLP with Probabilistic Models - Course 2
 
 ## Course Description
-  - Create an Auto correct models that calculates probabilities to find the most likely correction of a typo, through considering different possible edits to correct the typo and calculating the minimum edit distance to correct a certain word.
-  - **part of speech tagging (POS)** using **hidden Markov model** with the **Viterbi** algorithm. The Viterbi algorithm makes use of dynamic programming, which is an optimization technique that breaks down a big problem into smaller problems. 
+  - Create an **Auto correct models** that calculates probabilities to find the most likely correction of a typo, through considering different possible edits to correct the typo and calculating the minimum edit distance to correct a certain word.
+  - **Part of speech tagging (POS)** using **hidden Markov model** with the **Viterbi** algorithm. The Viterbi algorithm makes use of dynamic programming, which is an optimization technique that breaks down a big problem into smaller problems;
+  -  Implementing N-gram models that assigns the probability to a sequence of words in a way that more likely sequences receive higher probabilities. This probability calculation can then be used to develop an **auto-complete system**; 
 
 ## Notebok Description
   - 1. **Building_Vocabulary_Model.ipynb**: Vocabulary Creation with a small corpus;

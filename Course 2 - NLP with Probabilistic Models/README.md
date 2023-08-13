@@ -21,6 +21,19 @@
     - Out of vocabulary words with <UNK>;
     - Missing N-Gram in corpus with smoothing, backoff and interpolation;
     - Evaluate language model with perplexity.
+      
+  - **Part 04**:
+    - Basic word representations;
+    - Word Embeddings;
+    - Continuos Bag-of-Words (CBOW);
+    - Sliding Window of Words;
+    - Transforming Words into Vectors;
+    - Architecture for the CBOW model;
+    - Training a CBOW model: Forward propagation;
+    - Training a CBOW model: Backpropagation and Gradient Descent;
+    - Extracting Word Embedding Vectors;
+    - Evaluating Word Embeddings: Intrinsic Evaluation;
+    - Evaluating Word Embeddings: Extrinsic Evaluation;
 
 ## Notebok Description
   - 1. **Building_Vocabulary_Model.ipynb**: Vocabulary Creation with a small corpus;

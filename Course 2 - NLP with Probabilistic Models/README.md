@@ -2,7 +2,17 @@
 
 ## Course Description
   - Create an **Auto correct models** that calculates probabilities to find the most likely correction of a typo, through considering different possible edits to correct the typo and calculating the minimum edit distance to correct a certain word.
-  - **Part of speech tagging (POS)** using **hidden Markov model** with the **Viterbi** algorithm. The Viterbi algorithm makes use of dynamic programming, which is an optimization technique that breaks down a big problem into smaller problems;
+  - **Part 02**:
+    - Part of speech tagging (POS);
+    - Markov chain;
+    - Markov chain and part of speech tagging;
+    - Hidden Markov models;
+    - Populating the transition matrix;
+    - Populating the emission matrix;
+    - The Viterbi algorithm,
+    - Viterbi forward pass;
+    - Viterbi backward pass;
+
   - **Part 03**:
     - N-Grams and probabilities;
     - Approximate sentence probability from N-Grams;
